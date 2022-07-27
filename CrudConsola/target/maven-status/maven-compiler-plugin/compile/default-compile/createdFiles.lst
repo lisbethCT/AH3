@@ -1,0 +1,6 @@
+com\mycompany\crudconsola\CrudConsola.class
+com\mycompany\crudconsola\Insertar.class
+com\mycompany\crudconsola\Eliminar.class
+com\mycompany\crudconsola\Conexion.class
+com\mycompany\crudconsola\Modificar.class
+com\mycompany\crudconsola\Consultar.class
